@@ -1,6 +1,6 @@
 # Build Secure AWS Pipelines with GitHub Actions and OIDC
 
-This is the repository for the LinkedIn Learning course `Build Secure AWS Pipelines with GitHub Actions and OIDC`. 
+This is the repository to `Build Secure AWS Pipelines with GitHub Actions and OIDC`. 
 
 ![lil-thumbnail-url]
 
@@ -95,11 +95,4 @@ Or trigger the **Destroy Infrastructure** workflow from the GitHub Actions tab.
 
 ## Instructor
 
-Damien Burks
-Sr. Cloud Security Engineer & Founder of The DevSec Blueprint
 
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/damien-burks).
-
-[0]: # "Replace these placeholder URLs with actual course URLs"
-[lil-course-url]: https://www.linkedin.com/learning/build-secure-aws-pipelines-with-github-actions-and-oidc
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQFxa0iR2HnxSA/learning-public-crop_675_1200/B4EZ7wYv2rIAAY-/0/1782149480540?e=2147483647&v=beta&t=T51OoLDiCE5U0QbjvyxRRzo8EJj0zlgSmjvOUQwKelo
